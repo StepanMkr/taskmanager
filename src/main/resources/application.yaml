@@ -1,3 +1,6 @@
 spring:
   application:
     name: taskmanager
+external:
+  jsonplaceholder:
+    base-url: https://jsonplaceholder.typicode.com
