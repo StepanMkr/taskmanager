@@ -17,6 +17,7 @@ class PostSearchService(
 ) {
 
     companion object {
+        // знаем это значение, на деле - API должен возвращать
         private const val TOTAL_POSTS = 100
         private const val PAGE_SIZE = 20
     }
